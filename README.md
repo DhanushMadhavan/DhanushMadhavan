@@ -7,11 +7,11 @@
 🎓 B.E. Electronics and Computer Engineering (EXE) student at **Sona College of Technology, Salem**  
 💻 Developer | 🤖 AI Enthusiast
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushm23102006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DhanushMadhavan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanushmadhavan/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Dhanush_Madhavan-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhanush_Madhavan)
-[![HackerRank](https://img.shields.io/badge/HackerRank-dhanushm23102006-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dhanushm23102006)
-[![CodeChef](https://img.shields.io/badge/CodeChef-dhanush2310-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhanush2310)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushm23102006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushmadhavan/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dhanush_Madhavan)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/dhanushm23102006)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/dhanush2310)
 
 </div>
 
