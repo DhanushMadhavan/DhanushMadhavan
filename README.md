@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Dhanush M
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Electronics+and+Computer+Engineering+Student;Developer;AI+Enthusiast" alt="Animated headline: Electronics and Computer Engineering Student, Developer, AI Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Electronics+and+Computer+Engineering+Student;Developer+%7C+AI+Enthusiast" alt="Animated headline: Electronics and Computer Engineering Student; Developer | AI Enthusiast" />
 
 🎓 B.E. Electronics and Computer Engineering (EXE) student at **Sona College of Technology, Salem**  
 💻 Developer  
