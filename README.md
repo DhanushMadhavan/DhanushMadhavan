@@ -7,9 +7,8 @@
 🎓 B.E. Electronics and Computer Engineering (EXE) student at **Sona College of Technology, Salem**  
 💻 Developer | 🤖 AI Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanushmadhavan/)
-[![GitHub](https://img.shields.io/badge/GitHub-DhanushMadhavan-181717?style=for-the-badge&logo=github)](https://github.com/DhanushMadhavan)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushm23102006@gmail.com)
+[![Connect with DhanushMadhavan](https://img.shields.io/badge/Connect-DhanushMadhavan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanushmadhavan/)
+[![Contact](https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushm23102006@gmail.com)
 
 </div>
 
