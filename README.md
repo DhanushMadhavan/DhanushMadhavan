@@ -5,7 +5,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Electronics+and+Computer+Engineering+Student;Developer;AI+Enthusiast" alt="Animated headline: Electronics and Computer Engineering Student, Developer, AI Enthusiast" />
 
 🎓 B.E. Electronics and Computer Engineering (EXE) student at **Sona College of Technology, Salem**  
-💻 Developer | 🤖 AI Enthusiast
+💻 Developer  
+🤖 AI Enthusiast
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushm23102006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanushmadhavan/)
